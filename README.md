@@ -23,7 +23,7 @@
 
 🌱 I’m currently learning.
 
-    - Datastructures & Algorithms.
+    -React
     
 ---
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shafiq&show_icons=true&theme=tokyonight)
