@@ -6,8 +6,6 @@
 
 👨‍💻 I am passionate about Web Dev, Machine Learning & I enjoy learning new things.
 
-🔭 I’m currently working on open-source project.
-
 🌱 I’m currently learning.
 
     -React
