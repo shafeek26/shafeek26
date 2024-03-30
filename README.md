@@ -15,10 +15,6 @@ Hey, I'm Shafiq Makandar, a frontend aficionado passionate about elegant designs
 ---
 [![](https://visitcount.itsvg.in/api?id=shafeek26&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**shafeek26/shafeek26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
 
