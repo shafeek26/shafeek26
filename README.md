@@ -1,7 +1,7 @@
 ### Shafiq Makandar🚀
 ---
 Hey, I'm Shafiq Makandar, a frontend aficionado passionate about elegant designs and efficient algorithms. Join me in shaping the digital world, one line of code at a time.
----
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shafiq-m-b0580320b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/shafiq__dev) 
 
